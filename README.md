@@ -7,13 +7,13 @@ the system provides real-time insights into inventory levels, profit & loss, top
 
   # Description
 This project is a menu-driven inventory management system developed in excel with the following modules:
-Dashboard
-Customers
-Products
-Vendors
-New Entry
-Purchase
-Sales
+Dashboard,
+Customers,
+Products,
+Vendors,
+New Entry,
+Purchase,
+Sales,
 Inventory
 
 
