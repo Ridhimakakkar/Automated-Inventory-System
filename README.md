@@ -5,7 +5,7 @@ The main objective of this project is to design and develop an Excel-Based Inven
 It aims to reduce manual errors, save time, and improve operational efficiency.
 the system provides real-time insights into inventory levels, profit & loss, top products, and top customers, enabling businesses to make informed and timely decisions.It also ensures accurate record-keeping and efficient management of customers, vendors, and product data, making inventory control easier and more reliable.
 
-  # Description
+  ## Description
 This project is a menu-driven inventory management system developed in excel with the following modules:
 Dashboard,
 Customers,
@@ -30,7 +30,7 @@ It automates manual calculations, allowing managers to focus on strategic decisi
 - Use of excel tables, pivottables, and lookup functions improves data management and reporting.
 
 
-  ## conclusion
+  ## Conclusion
 
 The Inventory Management System demonstrates the practical use of excel for business automation.
 It improves accuracy, efficiency, and decision-making while reducing manual work.
