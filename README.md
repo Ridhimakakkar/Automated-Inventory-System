@@ -5,7 +5,7 @@
 -It aims to reduce manual errors, save time, and improve operational efficiency.
 the system provides real-time insights into inventory levels, profit & loss, top products, and top customers, enabling businesses to make informed and timely decisions.It also ensures accurate record-keeping and efficient management of customers, vendors, and product data, making inventory control easier and more reliable.
 
-  ## Description
+  # Description
 -This project is a menu-driven inventory management system developed in excel with the following modules:
 -Dashboard
 -Customers
@@ -17,6 +17,6 @@ the system provides real-time insights into inventory levels, profit & loss, top
 -Inventory
 
 
-# The system uses excel tools and formulas like if statements, vlookup, tables, pivottables, and charts.
-# Interactive dashboard provides an overview of stock availability, profit & loss summary, top 5 products, top 5 customers, and notifications for low stock or updates.
-# It automates manual calculations, allowing managers to focus on strategic decision-making and improving operational efficiency.
+#The system uses excel tools and formulas like if statements, vlookup, tables, pivottables, and charts.
+#Interactive dashboard provides an overview of stock availability, profit & loss summary, top 5 products, top 5 customers, and notifications for low stock or updates.
+#It automates manual calculations, allowing managers to focus on strategic decision-making and improving operational efficiency.
