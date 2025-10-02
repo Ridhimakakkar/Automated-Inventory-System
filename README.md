@@ -16,13 +16,12 @@ Purchase,
 Sales,
 Inventory
 
-## Dashboard
-
-
-
 The system uses excel tools and formulas like if statements, vlookup, tables, pivottables, and charts.
 Interactive dashboard provides an overview of stock availability, profit & loss summary, top 5 products, top 5 customers, and notifications for low stock or updates.
 It automates manual calculations, allowing managers to focus on strategic decision-making and improving operational efficiency.
+
+## Dashboard
+https://github.com/Ridhimakakkar/Automated-Inventory-System/blob/main/Screenshot%202025-10-01%20203336.png
 
 ## Key Insights
 
