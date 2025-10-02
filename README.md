@@ -16,6 +16,9 @@ Purchase,
 Sales,
 Inventory
 
+## Dashboard
+
+
 
 The system uses excel tools and formulas like if statements, vlookup, tables, pivottables, and charts.
 Interactive dashboard provides an overview of stock availability, profit & loss summary, top 5 products, top 5 customers, and notifications for low stock or updates.
